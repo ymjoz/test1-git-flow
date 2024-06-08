@@ -1,6 +1,6 @@
 # Description: This is another module that imports my_module
 
-import my_module, add_module
+import add_module
 import feature3_2 
 import pkg1.module1 as module1
 
