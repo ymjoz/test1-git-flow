@@ -5,3 +5,6 @@
 
 [這是git 撤銷的概念介紹](https://youtu.be/ol7CMoJuAvI?si=y0FEWUVKagJLlMJI)
 
+
+[python教學](https://docs.python.org/zh-tw/3/tutorial/controlflow.html#positional-or-keyword-arguments)
+
