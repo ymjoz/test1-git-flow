@@ -80,4 +80,7 @@ def images_path(img_name):
 
 # url_snapshot("https://www.cia.gov/")
 # url_snapshot("https://www.waseda.jp/top/en/")
-url_snapshot("https://www.tohoku.ac.jp/japanese/")
+# url_snapshot("https://www.tohoku.ac.jp/japanese/")
+# url_snapshot("https://www.osaka-u.ac.jp/ja")
+# url_snapshot("https://www.nagoya-u.ac.jp/")
+url_snapshot("https://www.kyushu-u.ac.jp/en/")
